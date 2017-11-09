@@ -11,9 +11,7 @@
 
 header{
     position: fixed;
-    /* left: 50%; */
     top: 0;
-    /* transform: translateX(-50%); */
     width:1024px;
     height: 80px;
     display: flex;
@@ -97,9 +95,6 @@ article{
     }
     .threeboxes{
         flex-direction: column;
-    } 
-     
-     
-
+    }      
 }
    
